@@ -1,0 +1,17 @@
+id,date,amount,category,subcategory,note
+3,2025-09-01,1200.0,Food,Dining Out,Lunch at restaurant with colleagues
+4,2025-09-03,2500.0,Utilities,,Electricity bill payment
+5,2025-09-07,800.0,Entertainment,,Movie tickets for weekend show
+6,2025-09-10,1500.0,Healthcare,,Doctor consultation and medicines
+7,2025-09-12,3500.0,Shopping,,Clothing purchase at mall
+8,2025-09-15,450.0,Transportation,,Auto rickshaw rides
+9,2025-09-18,750.0,Groceries,,Weekly grocery shopping
+10,2025-09-20,2000.0,Food,Dining Out,Family dinner at restaurant
+13,2025-09-20,799.0,Education,,Udemy course purchase
+1,2025-09-21,600.0,Transportation,,Cab ride to Delhi
+11,2025-09-22,1800.0,Education,,Online course subscription
+12,2025-09-25,650.0,Transportation,,Metro card recharge
+14,2025-09-25,700.0,transport,cab_ride_hailing,Cab ride to airport
+2,2025-09-26,500.0,Groceries,,Groceries
+15,2025-11-07,600.0,transport,,Daily transport budget
+16,2025-11-07,1000.0,groceries,,
